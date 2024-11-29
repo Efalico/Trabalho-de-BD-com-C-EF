@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\consoleapp1\\view\\vendasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\view\\vendasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\consoleapp1\\model\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\model\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\eduardo.vfcosta\\source\\repos\\consoleapp1\\consoleapp1\\controller\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1242449-A945-4385-9D95-86422B0FD4B7}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\controller\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Controller\\Context.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Controller\\Context.cs",
+              "ToolTip": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Controller\\Context.cs",
+              "RelativeToolTip": "ConsoleApp1\\Controller\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:29:04.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Model\\Vendas.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Model\\Vendas.cs",
+              "ToolTip": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Model\\Vendas.cs",
+              "RelativeToolTip": "ConsoleApp1\\Model\\Vendas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:16:35.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendasView.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\View\\VendasView.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\View\\VendasView.cs",
+              "ToolTip": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\View\\VendasView.cs",
+              "RelativeToolTip": "ConsoleApp1\\View\\VendasView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:13:13.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\eduardo.vfcosta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:20:26.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
